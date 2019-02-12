@@ -1,0 +1,9 @@
+[package]
+name = "text_editor"
+version = "0.1.0"
+authors = ["ryo togashi <ryo.togashi.ca@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termion = "1"
+clap = "2"
